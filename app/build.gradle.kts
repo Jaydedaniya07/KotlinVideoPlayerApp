@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.app.jdvideoplayer"
+    namespace = "com.app.videostream"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.app.jdvideoplayer"
+        applicationId = "com.app.videostream"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

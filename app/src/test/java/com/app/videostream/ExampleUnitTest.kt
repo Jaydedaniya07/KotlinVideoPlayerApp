@@ -1,4 +1,4 @@
-package com.app.jdvideoplayer
+package com.app.videostream
 
 import org.junit.Test
 

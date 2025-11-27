@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "JD Video player"
+rootProject.name = "Jd VideoStream"
 include(":app")

@@ -1,4 +1,4 @@
-package com.app.jdvideoplayer.UI.Activity
+package com.app.videostream.UI.Activity
 
 import android.app.Activity
 import android.content.Context
@@ -6,7 +6,7 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import androidx.appcompat.app.AppCompatActivity
 import androidx.viewbinding.ViewBinding
-import com.app.jdvideoplayer.Utils.PreferenceManager
+import com.app.videostream.Utils.PreferenceManager
 
 abstract class BaseActivity<B : ViewBinding> : AppCompatActivity() {
 

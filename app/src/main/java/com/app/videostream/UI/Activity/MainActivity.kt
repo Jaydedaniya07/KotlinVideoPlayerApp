@@ -1,10 +1,10 @@
-package com.app.jdvideoplayer.UI.Activity
+package com.app.videostream.UI.Activity
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
-import com.app.jdvideoplayer.databinding.ActivityMainBinding
-import com.app.jdvideoplayer.interfaces.OnClickHandler
+import com.app.videostream.databinding.ActivityMainBinding
+import com.app.videostream.interfaces.OnClickHandler
 
 class MainActivity : BaseActivity<ActivityMainBinding>(), OnClickHandler {
     

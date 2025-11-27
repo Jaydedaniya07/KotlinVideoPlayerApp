@@ -1,4 +1,4 @@
-package com.app.jdvideoplayer.Utils
+package com.app.videostream.Utils
 
 import android.content.Context
 import android.content.SharedPreferences
@@ -7,7 +7,7 @@ import java.lang.ref.WeakReference
 
 class PreferenceManager(context: Context) {
 
-    val PREFS_FILENAME = "com.app.jdvideoplayer.prefs"
+    val PREFS_FILENAME = "com.app.videostream.prefs"
     private var mSharedPreferences: SharedPreferences
     private var mEditor: SharedPreferences.Editor
     private val ACCESS_TOKEN = "accessToken"

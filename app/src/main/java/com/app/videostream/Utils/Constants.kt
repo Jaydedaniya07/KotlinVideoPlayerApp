@@ -1,4 +1,4 @@
-package com.app.jdvideoplayer.Utils
+package com.app.videostream.Utils
 
 class Constants {
 
@@ -6,6 +6,6 @@ class Constants {
         const val TITLE_NAME = "title_name"
         const val NAME = "name"
         const val IS_FIRST_TIME = "isFirstTime"
-        const val BASE_API_URL = "https://com.app.jdvideoplayer/"
+        const val BASE_API_URL = "https://com.app.videostream/"
     }
 }

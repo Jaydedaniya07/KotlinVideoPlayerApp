@@ -1,4 +1,4 @@
-package com.app.jdvideoplayer.Utils
+package com.app.videostream.Utils
 
 import android.app.Application
 import android.content.Context
@@ -9,7 +9,7 @@ import android.net.NetworkCapabilities
 import android.net.NetworkRequest
 import android.os.Build
 import android.util.Log
-import com.app.jdvideoplayer.UI.App
+import com.app.videostream.UI.App
 
 class NetworkCallback private constructor(application: Application) {
 

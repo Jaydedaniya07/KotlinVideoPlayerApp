@@ -1,4 +1,4 @@
-package com.app.jdvideoplayer.model
+package com.app.videostream.model
 
 import android.graphics.Bitmap
 import java.io.Serializable

@@ -1,4 +1,4 @@
-package com.app.jdvideoplayer.Utils
+package com.app.videostream.Utils
 
 import android.app.Activity
 import android.content.Context
@@ -9,8 +9,8 @@ import android.util.Log
 import android.view.inputmethod.InputMethodManager
 import android.widget.Toast
 import androidx.fragment.app.FragmentActivity
-import com.app.jdvideoplayer.R
-import com.app.jdvideoplayer.UI.App
+import com.app.videostream.R
+import com.app.videostream.UI.App
 
 object CommonMethods {
 

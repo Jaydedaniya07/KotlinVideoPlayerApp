@@ -1,4 +1,3 @@
 <resources>
-    <string name="app_name">JD Video player</string>
-    <string name="message_to_user">Hello!\nThank you for using the Boilerplate</string>
+    <string name="app_name">Jd VideoStream</string>
 </resources>

@@ -7,7 +7,7 @@
 
         <variable
             name="setOnClickHandler"
-            type="com.app.jdvideoplayer.interfaces.OnClickHandler" />
+            type="com.app.videostream.interfaces.OnClickHandler" />
 
     </data>
 
@@ -17,15 +17,7 @@
         android:onClick="@{(v) -> setOnClickHandler.onViewClicked(v)}"
         tools:context=".UI.Activity.MainActivity">
 
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/message_to_user"
-            app:layout_constraintBottom_toBottomOf="parent"
-            android:gravity="center"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent" />
+
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 

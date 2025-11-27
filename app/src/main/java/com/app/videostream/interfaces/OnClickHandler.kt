@@ -1,4 +1,4 @@
-package com.app.jdvideoplayer.interfaces
+package com.app.videostream.interfaces
 
 import android.view.View
 

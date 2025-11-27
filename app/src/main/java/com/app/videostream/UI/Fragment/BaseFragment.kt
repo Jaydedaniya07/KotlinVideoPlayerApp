@@ -1,4 +1,4 @@
-package com.app.jdvideoplayer.UI.Fragment
+package com.app.videostream.UI.Fragment
 
 import android.app.Activity
 import android.os.Bundle
@@ -8,7 +8,7 @@ import android.view.ViewGroup
 import android.view.ViewTreeObserver
 import androidx.fragment.app.Fragment
 import androidx.viewbinding.ViewBinding
-import com.app.jdvideoplayer.Utils.PreferenceManager
+import com.app.videostream.Utils.PreferenceManager
 
 abstract class BaseFragment<B : ViewBinding> : Fragment() {
 
