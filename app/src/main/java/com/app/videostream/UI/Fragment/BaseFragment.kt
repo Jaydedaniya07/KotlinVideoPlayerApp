@@ -8,7 +8,7 @@ import android.view.ViewGroup
 import android.view.ViewTreeObserver
 import androidx.fragment.app.Fragment
 import androidx.viewbinding.ViewBinding
-import com.app.videostream.Utils.PreferenceManager
+import com.app.videostream.utils.PreferenceManager
 
 abstract class BaseFragment<B : ViewBinding> : Fragment() {
 

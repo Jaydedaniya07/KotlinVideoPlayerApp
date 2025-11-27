@@ -6,7 +6,7 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import androidx.appcompat.app.AppCompatActivity
 import androidx.viewbinding.ViewBinding
-import com.app.videostream.Utils.PreferenceManager
+import com.app.videostream.utils.PreferenceManager
 
 abstract class BaseActivity<B : ViewBinding> : AppCompatActivity() {
 

@@ -1,8 +1,8 @@
 package com.app.videostream.UI
 
 import android.app.Application
-import com.app.videostream.Utils.NetworkCallback
-import com.app.videostream.Utils.PreferenceManager
+import com.app.videostream.utils.NetworkCallback
+import com.app.videostream.utils.PreferenceManager
 
 class App : Application(){
 

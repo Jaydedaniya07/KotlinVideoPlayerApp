@@ -1,4 +1,4 @@
-package com.app.videostream.Utils
+package com.app.videostream.utils
 
 import android.app.Application
 import android.content.Context

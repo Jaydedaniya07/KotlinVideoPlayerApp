@@ -1,0 +1,124 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Trending Now",
+      "videos": [
+        {
+          "id": "v1",
+          "title": "Amazing Nature Documentary",
+          "duration": "12:45",
+          "thumbnail_url": "https://picsum.photos/400/600?random=1",
+          "video_urls": {
+            "high": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "medium": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "low": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+          },
+          "category_id": "1"
+        },
+        {
+          "id": "v2",
+          "title": "Epic Adventure",
+          "duration": "08:30",
+          "thumbnail_url": "https://picsum.photos/400/600?random=2",
+          "video_urls": {
+            "high": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+            "medium": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+            "low": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+          },
+          "category_id": "1"
+        },
+        {
+          "id": "v3",
+          "title": "City Lights",
+          "duration": "05:20",
+          "thumbnail_url": "https://picsum.photos/400/600?random=3",
+          "video_urls": {
+            "high": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+            "medium": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+            "low": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+          },
+          "category_id": "1"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Action Movies",
+      "videos": [
+        {
+          "id": "v4",
+          "title": "Action Packed Thriller",
+          "duration": "15:30",
+          "thumbnail_url": "https://picsum.photos/400/600?random=4",
+          "video_urls": {
+            "high": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+            "medium": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+            "low": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+          },
+          "category_id": "2"
+        },
+        {
+          "id": "v5",
+          "title": "High Speed Chase",
+          "duration": "10:15",
+          "thumbnail_url": "https://picsum.photos/400/600?random=5",
+          "video_urls": {
+            "high": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+            "medium": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+            "low": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+          },
+          "category_id": "2"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Comedy Shows",
+      "videos": [
+        {
+          "id": "v6",
+          "title": "Funny Moments Compilation",
+          "duration": "06:45",
+          "thumbnail_url": "https://picsum.photos/400/600?random=6",
+          "video_urls": {
+            "high": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+            "medium": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+            "low": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+          },
+          "category_id": "3"
+        },
+        {
+          "id": "v7",
+          "title": "Stand Up Comedy Special",
+          "duration": "22:30",
+          "thumbnail_url": "https://picsum.photos/400/600?random=7",
+          "video_urls": {
+            "high": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+            "medium": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+            "low": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+          },
+          "category_id": "3"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Documentaries",
+      "videos": [
+        {
+          "id": "v8",
+          "title": "Wildlife in Africa",
+          "duration": "45:00",
+          "thumbnail_url": "https://picsum.photos/400/600?random=8",
+          "video_urls": {
+            "high": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "medium": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "low": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+          },
+          "category_id": "4"
+        }
+      ]
+    }
+  ]
+}

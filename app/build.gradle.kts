@@ -63,14 +63,25 @@ dependencies {
     // ViewModel and LiveData
     implementation(libs.androidx.lifecycle.viewmodel.ktx)
     implementation(libs.androidx.lifecycle.livedata.ktx)
+    implementation(libs.androidx.lifecycle.runtime.ktx)
 
     // Coroutines
     implementation(libs.kotlin.stdlib)
     implementation(libs.kotlinx.coroutines.core)
+    implementation(libs.kotlinx.coroutines.android)
 
     // Gson
     implementation(libs.gson)
 
     // Glide
     implementation(libs.glide)
+    annotationProcessor(libs.compiler)
+
+    // ExoPlayer - Video playback
+    implementation(libs.exoplayer)
+    implementation(libs.exoplayer.core)
+    implementation(libs.exoplayer.ui)
+
+    // Lottie animations
+    implementation(libs.lottie)
 }
