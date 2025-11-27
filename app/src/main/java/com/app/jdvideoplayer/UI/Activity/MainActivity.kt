@@ -7,15 +7,12 @@ import com.app.jdvideoplayer.databinding.ActivityMainBinding
 import com.app.jdvideoplayer.interfaces.OnClickHandler
 
 class MainActivity : BaseActivity<ActivityMainBinding>(), OnClickHandler {
-
-    // private lateinit var viewModel: MainViewModel
     
     override fun getLayout(inflater: LayoutInflater) = ActivityMainBinding.inflate(layoutInflater)
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding.setOnClickHandler = this
-        // viewModel = ViewModelProvider(this, ViewModelFactory(activity))[MainViewModel::class.java]
     }
 
     override fun initView() {
